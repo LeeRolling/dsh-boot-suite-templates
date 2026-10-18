@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-18",
+  "templates": [
+    {
+      "id": "archive-ink",
+      "name": "档案墨黑",
+      "author": "LeeRolling",
+      "path": "templates/archive-ink",
+      "description": "同「档案暖白」的版式，把橙色强调换成墨黑 + 深蓝，更冷、更像扫描件。"
+    }
+  ]
+}
