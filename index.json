@@ -3,6 +3,15 @@
   "updatedAt": "2026-10-18",
   "templates": [
     {
+      "id": "deep-sonar",
+      "name": "深海声呐",
+      "author": "DeepSeek",
+      "basedOn": "沈宏宏",
+      "adaptedBy": "LeeRolling",
+      "path": "templates/deep-sonar",
+      "description": "深蓝底 + 浅蓝强调的五幕下潜叙事，自带六句英文播报（重档机械音色）。视觉语言基于沈宏宏的开机动画。"
+    },
+    {
       "id": "archive-ink",
       "name": "档案墨黑",
       "author": "沈宏宏",
