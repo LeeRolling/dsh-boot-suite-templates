@@ -5,9 +5,10 @@
     {
       "id": "archive-ink",
       "name": "档案墨黑",
-      "author": "LeeRolling",
+      "author": "沈宏宏",
+      "adaptedBy": "LeeRolling",
       "path": "templates/archive-ink",
-      "description": "同「档案暖白」的版式，把橙色强调换成墨黑 + 深蓝，更冷、更像扫描件。"
+      "description": "基于沈宏宏原动画的档案版式，强调色换成墨黑 + 深蓝，更冷、更像扫描件。改色：LeeRolling。"
     }
   ]
 }

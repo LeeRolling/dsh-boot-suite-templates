@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "id": "archive-ink",
   "name": "档案墨黑",
-  "author": "LeeRolling",
+  "author": "沈宏宏",
   "homepage": "https://github.com/LeeRolling/dsh-boot-suite",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "同「档案暖白」的版式，把橙色强调换成墨黑 + 深蓝——更冷、更像扫描件。适合当第一个改色示范。",
+  "description": "基于沈宏宏原动画的档案版式，强调色换成墨黑 + 深蓝，更冷、更像扫描件。改色：LeeRolling。",
   "tags": [
     "minimal",
     "light",
@@ -86,5 +86,6 @@
       "progress": 0.93,
       "reticle": true
     }
-  ]
+  ],
+  "adaptedBy": "LeeRolling"
 }
